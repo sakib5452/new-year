@@ -59,3 +59,66 @@ header{
 .check1{
     padding-top: 4px;
 }
+.sub-plans{
+    display: flex;
+    gap: 86px;
+    padding-left: 80px;
+    padding-top: 50px;
+}
+.my-plans{
+    margin-top: 130px;
+    max-width:1240px;
+    margin: 0 auto;
+}
+.main-plans{
+    text-align: center;
+    font-size: 43px;
+    font-weight: 700;
+    padding-left: 100px;
+}
+.name{
+    font-size: 30px;
+    font-weight: 700;
+    padding-top: 10px;
+   
+}
+.description{
+   font-size:22px ;
+   font-weight: 500;
+   color:rgba(115, 114, 114, 1) ; 
+   text-align: center;
+}
+.img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 20px;
+   
+}
+.call-button{
+    margin-top: 25px;
+  color:rgba(0, 95, 172, 1) ;
+  font-size: 20px;
+  font-weight: 600;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 30px;
+  margin-left: 50px;
+}
+.call{
+    max-width:1240px;
+    margin: 0 auto;
+    background-image:linear-gradient(to right, rgba(117, 19, 93, 0.73), rgba(245, 246, 252, 0.52)), url(/images/watch.png);
+    background-repeat: no-repeat;
+    padding: 100px 40px;
+    margin-top: 100px;
+    margin-left: 190px;
+    background-size: cover;
+    border-radius: 5px;
+    
+}
+.positive{
+    padding-left: 50px;
+    font-size: 45px;
+    font-weight: 700;
+}
