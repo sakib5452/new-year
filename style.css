@@ -23,7 +23,7 @@ header{
     font-weight: 400;
 }
 .contact-button{
-  margin-left: 1387px;
+  margin-left: 1370px;
   margin-top: 25px;
   color:rgba(0, 95, 172, 1) ;
   font-size: 20px;
@@ -31,4 +31,31 @@ header{
   border: none;
   border-radius: 5px;
   padding: 10px 30px;
+}
+.about{
+    display: flex;
+    justify-content: space-around;
+    margin: 130px 200px;
+}
+.text{
+    padding-top: 180px;
+    font-size: 40px;
+    font-weight: 700;
+}
+.sub-text{
+    padding-top: 10px;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+#check{
+    color:#16D887 ;
+}
+.main-check{
+    padding-top: 10px;
+    font-size: 18px;
+    font-weight: 400;
+}
+.check1{
+    padding-top: 4px;
 }
