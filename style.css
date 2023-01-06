@@ -1,0 +1,34 @@
+*{
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+}
+header{
+    background-image: url(/images/banner/banner3.png);
+    height: 800px;
+    background-repeat: no-repeat;
+    background-size:100%
+}
+.title{
+    text-align: end;
+    padding-right: 150px;
+    padding-top: 250px;
+    font-size: 50px;
+    font-weight: 700;
+}
+.sub-title{
+    text-align: end;
+    padding-right: 150px;
+    padding-top: 25px;
+    font-size:18px ;
+    font-weight: 400;
+}
+.contact-button{
+  margin-left: 1387px;
+  margin-top: 25px;
+  color:rgba(0, 95, 172, 1) ;
+  font-size: 20px;
+  font-weight: 600;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 30px;
+}
