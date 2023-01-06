@@ -24,14 +24,14 @@ header{
     font-weight: 400;
 }
 .contact-button{
-  margin-left: 1370px;
-  margin-top: 25px;
+    margin-top: 25px;
   color:rgba(0, 95, 172, 1) ;
   font-size: 20px;
   font-weight: 600;
   border: none;
   border-radius: 5px;
   padding: 10px 30px;
+  margin-left: 1370px;
 }
                                             /* about */
 .about{
@@ -157,7 +157,7 @@ header{
     font-size: 18px;
     font-weight: 400;
 }
-                                                       /* footer */
+                                         /* footer */
 .footer{
     display: flex;
     background-color: black;
