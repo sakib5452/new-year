@@ -31,7 +31,7 @@ header{
     border: none;
     border-radius: 5px;
     padding: 10px 30px;
-    margin-left: 1150px;
+    margin-left: 1000px;
 }
                                             /* about */
 .about{
@@ -116,7 +116,7 @@ header{
     background-repeat: no-repeat;
     padding: 100px 40px;
     margin-top: 100px;
-    margin-left: 190px;
+    margin-left: 150px;
     background-size: cover;
     border-radius: 5px;
     
